@@ -1,46 +1,46 @@
-3153B  	
-A5055	杨邦	[done]
-A5065  
-AB1004B   
-AIT3377  
-AMBIC1212  
-AN1611	
-AN4361  
-AN4365  
-AP6111  
-APE5054  
-AQS2248  
-AU1868  
-AX2400  
-AXP020B  
-AXS6018  
-BX2700M  
-C12020  
-C8135	杨邦	[done]
-C8325	杨邦	[done]
-C8365   	杨邦	[done]
+3153B
+A5055 杨邦 [done]
+A5065
+AB1004B
+AIT3377
+AMBIC1212
+AN1611
+AN4361
+AN4365
+AP6111
+APE5054
+AQS2248
+AU1868
+AX2400
+AXP020B
+AXS6018        nova
+BX2700M
+C12020
+C8135 杨邦 [done]
+C8325 杨邦 [done]
+C8365 杨邦 [done]
 C8369
-C8385	杨邦	[done]
-C8455	杨邦	[done]
+C8385 杨邦 [done]
+C8455 杨邦 [done]
 C8465
 C8485
-CFD135A	杨邦	[done]
+CFD135A 杨邦 [done]
 CFD135A_C8135QP [done]
-CFD325A         [done]
+CFD325A [done]
 CFD325E
 CFD335B
-CFD435A	杨邦	[done]
+CFD435A 杨邦 [done]
 CFD435AQP9
-CFD455A	杨邦	[done]
+CFD455A 杨邦 [done]
 CFD455A_AQP9
-CFD455C         [done]
+CFD455C [done]
 CFD455C_C8455
-CFD455H	杨邦	[done]
+CFD455H 杨邦 [done]
 CFD455HAQP9
 CFD455J
 CFD465A
 CFD525A
-CFD535A
+CFD535A        nova
 CFD555A
 CFD555B
 CFD655
@@ -50,98 +50,98 @@ CFD955B
 CFD969
 CNS6101
 CNS6502
-CNS7153	杨邦	[done]
-CNS7153GP	杨邦	[done]
+CNS7153 杨邦 [done]
+CNS7153GP 杨邦 [done]
 CNS7253
-CNS7263	杨邦	[done]
+CNS7263 杨邦 [done]
 CNS7363
 CP1515H-T12408
-CS2017
+CS2017        nova
 CS2017N
 CS2017S
-CS2033	杨邦	[done]
-CT9065SP    [done]
-DP5020  [done]
-DP5125D     [done]
-FM6363B         [done]
-FM6565B     [done]
+CS2033 杨邦 [done]
+CT9065SP [done]
 D2618
 D2618B
 D7732
 D8027
 DM413
-DP3153	杨邦	[done]
-DP3153S	杨邦	[done]
-DP3153_S	杨邦	[done]
-DP3216	杨邦	[done]
-DP3246	杨邦	[done]
+DP3153 杨邦 [done]
+DP3153S 杨邦 [done]
+DP3153_S 杨邦 [done]
+DP3216 杨邦 [done]
+DP3246 杨邦 [done]
 DP3246N
-DP3252	杨邦	[done]
-DP3254	杨邦	[done]
-DP3256	杨邦	[done]
-DP3263	[done]
-DP3264	杨邦	[done]
-DP3264S	杨邦	[done]
-DP3265	杨邦	[done]
+DP3252 杨邦 [done]
+DP3254 杨邦 [done]
+DP3256 杨邦 [done]
+DP3263 [done]
+DP3264 杨邦 [done]
+DP3264S 杨邦 [done]
+DP3265 杨邦 [done]
 DP32651
-DP3265B	杨邦	[done]
+DP3265B 杨邦 [done]
 DP3265I
-DP3265S	杨邦	[done]
-DP3269	杨邦	[done]
-DP3269S	杨邦	[done]
-DP3356	[done]
+DP3265S 杨邦 [done]
+DP3269 杨邦 [done]
+DP3269S 杨邦 [done]
+DP3356 [done]
 DP3357
 DP3357S
-DP3364	杨邦	[done]
-DP3364H	杨邦	[done]
-DP3364Q	杨邦	[done]
-DP3364S	杨邦	[done]
-DP3365	杨邦	[done]
-DP3365S	杨邦	[done]
+DP3364 杨邦 [done]
+DP3364H 杨邦 [done]
+DP3364Q 杨邦 [done]
+DP3364S 杨邦 [done]
+DP3365 杨邦 [done]
+DP3365S 杨邦 [done]
 DP3366S
-DP3367S	杨邦	[done]
-DP3368	杨邦	[done]
-DP3369S	杨邦	[done]
+DP3367S 杨邦 [done]
+DP3368 杨邦 [done]
+DP3369S 杨邦 [done]
 DP3370S
 DP3379S
 DP3862
-DP5125	杨邦	[done]
+DP5020 [done]
+DP5125 杨邦 [done]
+DP5125D [done]
 DP5125F
 DP5125H
 DP5125_C
-DP5135	杨邦	[done]
+DP5135 杨邦 [done]
 DP5220X
 DP5525
 F6648
 file_list.txt
-FM6047	杨邦	[done]
-FM6053	杨邦	[done]
-FM6124	杨邦	[done]
+FM6047 杨邦 [done]
+FM6053 杨邦 [done]
+FM6124 杨邦 [done]
 FM6124_6125
 FM6125
-FM6126	杨邦	[done]
-FM6127	杨邦	[done]
+FM6126 杨邦 [done]
+FM6127 杨邦 [done]
 FM6128
 FM6129
-FM6153	杨邦	[done]
-FM6182	杨邦	[done]
-FM6253	杨邦	[done]
-FM6353	杨邦	[done]
-FM6356	杨邦	[done]
+FM6153 杨邦 [done]
+FM6182 杨邦 [done]
+FM6253 杨邦 [done]
+FM6353 杨邦 [done]
+FM6356 杨邦 [done]
 FM6356B
-FM6363	杨邦	[done]
-FM6363C	杨邦	[done]
-FM6373	杨邦	[done]
-FM6373C	杨邦	[done]
+FM6363 杨邦 [done]
+FM6363B [done]
+FM6363C 杨邦 [done]
+FM6373 杨邦 [done]
+FM6373C 杨邦 [done]
 FM6555
-FM6565	杨邦	[done]
+FM6565 杨邦 [done]
+FM6565B [done]
 FM6565CE
-FM6565E	杨邦	[done]
-FM6569	[done]
+FM6565E 杨邦 [done]
+FM6569 [done]
 FM6864
 FM6869
-GS6238S	杨邦	[done]
-GS6263	杨邦	[done]
+GS6238S 杨邦 [done]
+GS6263 杨邦 [done]
 GS8208
 GS820X
 GS8303C
@@ -171,93 +171,93 @@ HX8055
 HX8065S_L
 HX8128
 HX88128
-HX8863_HX8865	[done]
-HX8864	杨邦	[done]
-HX8866	[done]
+HX8863_HX8865 [done]
+HX8864 杨邦 [done]
+HX8866 [done]
 HX8896
 HX8932
 HX8963
 HX8964
-ICN2049     [done]
-ICN1063_ICN2263	[done]
-ICN1065	杨邦			[done]
-ICN1065L	[done]
-ICN1065S	[done]
+ICN1063_ICN2263 [done]
+ICN1065 杨邦 [done] 未找到
+ICN1065L [done]
+ICN1065S [done]
 ICN1068
 ICN1069
 ICN2025
-ICN2026
+ICN2026        nova
 ICN2027
-ICN2028	杨邦	[done]
-ICN2037	杨邦	[done]
-ICN2038	杨邦	[done]
-ICN2038S	杨邦	[done]
+ICN2028 杨邦 [done]
+ICN2037 杨邦 [done]
+ICN2038 杨邦 [done]
+ICN2038S 杨邦 [done]
 ICN2038SN
-ICN2045	杨邦	[done]
+ICN2045 杨邦 [done]
 ICN2045N
-ICN2046	杨邦	[done]
+ICN2046 杨邦 [done]
 ICN2046_2049
-ICN2047	杨邦	[done]
-ICN2053	杨邦	[done]
+ICN2047 杨邦 [done]
+ICN2049 [done]
+ICN2053 杨邦 [done]
 ICN2053_2058
-ICN2055	杨邦	[done]
+ICN2055 杨邦 [done]
 ICN2055S
 ICN2058
 ICN205x
-ICN2065	杨邦	[done]
-ICN2065L	杨邦	[done]
+ICN2065 杨邦 [done]
+ICN2065L 杨邦 [done]
 ICN2066
-ICN2069	杨邦	[done]
+ICN2069 杨邦 [done]
 ICN2076
 ICN2088
-ICN2150S	杨邦	[done]
-ICN2152	杨邦	[done]
-ICN2153	杨邦	[done]
+ICN2150S 杨邦 [done]
+ICN2152 杨邦 [done]
+ICN2153 杨邦 [done]
 ICN2153P_ICN2159
 ICN2153S
-ICN2163	杨邦	[done]
-ICN2165	杨邦	[done]
+ICN2163 杨邦 [done]
+ICN2165 杨邦 [done]
 ICN2165_ICN2055S
 ICN2200
-ICND1063	杨邦	[done]
-ICND1063_2263	[done]
-ICND1065	杨邦	[done]
-ICND1065L	杨邦	[done]
-ICND1065S	杨邦	[done]
+ICND1063 杨邦 [done]
+ICND1063_2263 [done]
+ICND1065 杨邦 [done]
+ICND1065L 杨邦 [done]
+ICND1065S 杨邦 [done]
 ICND1065S_2065L
-ICND1068	杨邦	[done]
-ICND1069
-ICND2045
+ICND1068 杨邦 [done]
+ICND1069        nova
+ICND2045        nova
 ICND2046
 ICND2047
 ICND2049
-ICND2055	杨邦	[done]
+ICND2055 杨邦 [done]
 ICND2055S
-ICND2059
-ICND2065	杨邦	[done]
-ICND2069
+ICND2059        nova
+ICND2065 杨邦 [done]
+ICND2069        nova
 ICND2069S
 ICND2076
 ICND2100
 ICND2110
 ICND2112
-ICND2150
+ICND2150        nova
 ICND2150S
-ICND2152	杨邦	[done]
-ICND2153	[done]
+ICND2152 杨邦 [done]
+ICND2153 [done]
 ICND2153P
 ICND2153S
 ICND2153U
 ICND2153_three
-ICND2163
+ICND2163        nova
 ICND2163S
-ICND2165	杨邦	[done]
+ICND2165 杨邦 [done]
 ICND2168
-ICND2169
+ICND2169        nova
 ICND2200
 ICND2210
 ICND2260
-ICND2263	杨邦	[done]
+ICND2263 杨邦 [done]
 ICND2270
 ICND3065
 ICND3069
@@ -283,36 +283,35 @@ LS9903
 LS9917
 LS9918
 LS9918S
-LS9919	杨邦	[done]
+LS9919 杨邦 [done]
 LS9919S
 LS9920
 LS9926
 LS9926S
 LS9928
-LS9929	杨邦	[done]
-LS9929C	杨邦	[done]
-LS9929S     [done]
-LS9931BS    [done]    
-LS9931C     [done]
-LS9933S	    [done]
-LS9930	杨邦	[done]
-LS9930S	杨邦	[done]
-LS9931	杨邦	[done]
-LS9931S	杨邦	[done]
+LS9929 杨邦 [done]
+LS9929C 杨邦 [done]
+LS9929S [done]
+LS9930 杨邦 [done]
+LS9930S 杨邦 [done]
+LS9931 杨邦 [done]
+LS9931BS [done]
+LS9931C
+LS9931S 杨邦 [done]
 LS9932
 LS9932S
-LS9933	杨邦	[done]
-LS9933S
-LS9935	杨邦	[done]
-LS9935B	杨邦  [done]
+LS9933 杨邦 [done]
+LS9933S [done]
+LS9935 杨邦 [done]
+LS9935B 杨邦 [done] 未找到
 LS9935S
-LS9936	杨邦	[done]
-LS9936S	杨邦	[done]
-LS9937	杨邦  未找到
+LS9936 杨邦 [done]
+LS9936S 杨邦 [done]
+LS9937 杨邦 未找到
 LS9937C
-LS9937D	杨邦    未找到
+LS9937D 杨邦 未找到
 LS9937D_Serial
-LS9937S	杨邦		未找到
+LS9937S 杨邦 未找到
 LS9937S_Serial
 LS9952
 LS9952S
@@ -326,22 +325,22 @@ LYD2200
 LYD23221
 LYD23221B
 LYD6124
-LYD6126	杨邦	[done]
-LYD6126C        [done]
-LYD6128	杨邦	[done]
+LYD6126 杨邦 [done]
+LYD6126C [done]
+LYD6128 杨邦 [done]
 LYD6128A
-LYD6168	杨邦	[done]
-LYD6168A	杨邦	[done]
+LYD6168 杨邦 [done]
+LYD6168A 杨邦 [done]
 LYD6168B
-LYD6168C	[done]
+LYD6168C [done]
 LYD6168D
-LYD6168E	杨邦	[done]
-LYD6188	杨邦	[done]
-LYD6188PC	杨邦	[done]
-LYD6268	杨邦	[done]
+LYD6168E 杨邦 [done]
+LYD6188 杨邦 [done]
+LYD6188PC 杨邦 [done]
+LYD6268 杨邦 [done]
 M16510SC_ND
 MBI5028
-MBI5030	[done]
+MBI5030 [done]
 MBI5034
 MBI5034B
 MBI5036
@@ -359,11 +358,11 @@ MBI5045
 MBI5049
 MBI5050
 MBI5051
-MBI5051B
-MBI5052
+MBI5051B        nova
+MBI5052        nova
 MBI5053
 MBI5122
-MBI5124	杨邦	[done]
+MBI5124 杨邦 [done]
 MBI5124A
 MBI5124N
 MBI5124New
@@ -372,30 +371,30 @@ MBI5125A
 MBI5125N
 MBI5151
 MBI5152
-MBI5153	杨邦	[done]
-MBI5155         [done]
+MBI5153 杨邦 [done]
+MBI5155 [done]        nova
 MBI5158
 MBI5166
 MBI5167
 MBI5224
-MBI5251
+MBI5251        nova
 MBI5251_ND
-MBI5252
+MBI5252        nova
 MBI5252B
-MBI5253
+MBI5253        nova
 MBI5253A
 MBI5253B
 MBI5253C
 MBI5253NewB
 MBI5253NewB_ND
-MBI5254
+MBI5254        nova
 MBI5261
 MBI5262
-MBI5264	[done]
+MBI5264 [done]
 MBI5264_ND
 MBI5265
 MBI5266
-MBI5268
+MBI5268        nova
 MBI5269
 MBI5292
 MBI5325
@@ -423,7 +422,7 @@ MBI6030
 MBI6033
 MBI6034
 MBI6120
-MBI6153	杨邦	[done]
+MBI6153 杨邦 [done]
 MBI6322
 MBI6328
 MBI6353
@@ -469,7 +468,7 @@ MY9862A
 MY9866
 MY9866_Common
 MY9868
-MY9868A
+MY9868A        nova
 NT27002S
 NT27003
 NT27052
@@ -494,11 +493,11 @@ RT5967
 RT5977
 RT7908A
 RT7920
-RUC6053
-RUL6024	杨邦	[done]
+RUC6053        nova
+RUL6024 杨邦 [done]
 RUL6065
 RZ
-SC6618	杨邦	[done]
+SC6618 杨邦 [done]
 SC6660
 SCIC2023
 SCK3079
@@ -520,103 +519,103 @@ SCL8081B
 SK9810
 SK9813
 SK9814
-SM16106   [done]
 SK9818_MW1866
-SM16016	杨邦	[done]
-SM16208SC       [done]
-SM16208SJ       [done]    
+SM16016 杨邦 [done]
 SM16017
 SM16017DS
 SM16017N
-SM16017S	[done]
+SM16017S [done]
 SM16017_new
 SM16026S
-SM16027
+SM16027        nova
+SM16106 [done]
 SM16126_SM16127
 SM16136
 SM16158
-SM16159	杨邦	[done]
-SM16159S	杨邦	[done]
+SM16159 杨邦 [done]
+SM16159S 杨邦 [done]
 SM16159_S
-SM16169	杨邦	[done]
+SM16169 杨邦 [done]
 SM16169L
-SM16169S	杨邦	[done]
-SM16169SH	杨邦	[done]
+SM16169S 杨邦 [done]
+SM16169SH 杨邦 [done]
 SM16169SH_SL
 SM16169SH_SL new
-SM16169SL	杨邦	[done]
-SM16169SW	杨邦	[done]
-SM16169SW new	[done]
+SM16169SL 杨邦 [done]
+SM16169SW 杨邦 [done]
+SM16169SW new [done]
 SM16169SW_ND
 SM16169SW_SM16189
 SM16188
 SM16188B
-SM16189SC	杨邦	[done]
+SM16189SC 杨邦 [done]
 SM16189SC_ND
-SM16206S	杨邦	[done]
-SM16206_SM16306	[done]
-SM16207	杨邦	[done]
+SM16206S 杨邦 [done]
+SM16206_SM16306 [done]
+SM16207 杨邦 [done]
 SM16207N
-SM16207S	杨邦	[done]
-SM16208	杨邦	[done]
-SM16208S	杨邦	[done]
+SM16207S 杨邦 [done]
+SM16208 杨邦 [done]
+SM16208S 杨邦 [done]
+SM16208SC [done]
+SM16208SJ [done]
 SM16212NH
 SM16218
 SM16218N
-SM16227	杨邦	[done]
+SM16227 杨邦 [done]
 SM16227P
-SM16227S	杨邦	[done]
-SM16237	杨邦	[done]
-SM16237DS	杨邦	[done]
+SM16227S 杨邦 [done]
+SM16237 杨邦 [done]
+SM16237DS 杨邦 [done]
 SM16237DS_SM16238
 SM16237N
 SM16237P
-SM16237S	杨邦	[done]
+SM16237S 杨邦 [done]
 SM16237_16238
-SM16238	[done]
-SM16259	杨邦	[done]
-SM16259S	杨邦	[done]
-SM16269	杨邦	[done]
-SM16269S	杨邦	[done]
+SM16238 [done]
+SM16259 杨邦 [done]
+SM16259S 杨邦 [done]
+SM16269 杨邦 [done]
+SM16269S 杨邦 [done]
 SM16269SW
 SM16269SW_ND
-SM16289	杨邦	[done]
-SM16289_S	杨邦    未找到
-SM16306S	杨邦	[done]
+SM16289 杨邦 [done]
+SM16289_S 杨邦 未找到
+SM16306S 杨邦 [done]
 SM16318
 SM16329
 SM16339
-SM16359	杨邦	[done]
-SM16359S	杨邦	[done]
-SM16369	杨邦	[done]
-SM16369S	杨邦	[done]
-SM16380	杨邦	[done]
-SM16380SA	杨邦	[done]
-SM16380SC	杨邦	[done]
-SM16380SF	杨邦	[done]
-SM16380SH	杨邦	[done]
+SM16359 杨邦 [done]
+SM16359S 杨邦 [done]
+SM16369 杨邦 [done]
+SM16369S 杨邦 [done]
+SM16380 杨邦 [done]
+SM16380SA 杨邦 [done]
+SM16380SC 杨邦 [done]
+SM16380SF 杨邦 [done]
+SM16380SH 杨邦 [done]
 SM16380SH_ND
-SM16380SH_SA	[done]
-SM16380SH_SA new	[done]
-SM16380SW       [done]
-SM16389SC       [done]
+SM16380SH_SA [done]
+SM16380SH_SA new [done]
+SM16380SW [done]
 SM16380SW new
 SM16380SW_ND
-SM16382	杨邦	[done]
-SM16386S	杨邦	[done]
-SM16386S new	[done]
+SM16382 杨邦 [done]
+SM16386S 杨邦 [done]
+SM16386S new [done]
 SM16386SH
 SM16386SH_ND
 SM16386S_ND
-SM16388	杨邦	[done]
-SM16388S	杨邦	[done]
-SM16389	杨邦	[done]
-SM16389SF	杨邦	[done]
-SM16395	杨邦	[done]
+SM16388 杨邦 [done]
+SM16388S 杨邦 [done]
+SM16389 杨邦 [done]
+SM16389SC [done]
+SM16389SF 杨邦 [done]
+SM16395 杨邦 [done]
 SM16399
 SM16399SC
 SM16509_SM16389SF
-SM16510         [done] 
+SM16510 [done]        nova
 SM16510S
 SM16510SC
 SM16519S
@@ -626,31 +625,30 @@ SM16813
 SM16813P_SCICT2023
 SUM20167
 SUM2017
-SUM2017T
+SUM2017T        nova
 SUM2017TD
 SUM2018
 SUM2019
 SUM2028
-SUM2030	杨邦	[done]
+SUM2030 杨邦 [done]
 SUM2030T
 SUM2030T_2130
 SUM2031
 SUM2032
 SUM2032D131
 SUM2032D141
-SUM2033	杨邦	[done]
-SUM2035	[done]
+SUM2033 杨邦 [done]
+SUM2035 [done]
 SUM2036
 SUM2037
 SUM2117
 SUM2130
 SUM2130T
-SUM2131	杨邦	[done]
+SUM2131 杨邦 [done]
 SUM2135
 SUM6082
 SUM6086
 SXT2000
-TC5020      [done]
 T2020M
 TA8028
 TBS2218
@@ -660,6 +658,7 @@ TBS5266A
 TBS5266B
 TBS5267A
 TBS5367
+TC5020 [done]
 TL3102UD
 TL3103UD
 TLC5929
@@ -727,4 +726,3 @@ XM11920G
 YT8543
 YY6018
 ZY1515
-
